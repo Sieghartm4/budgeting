@@ -1,0 +1,16 @@
+body { background-color: #f8f9fa; }
+.header-title {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white; padding: 20px; text-align: center; margin-bottom: 30px;
+}
+.card { box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px; }
+.table th { background-color: #343a40; color: white; font-size: 12px; }
+.table td { font-size: 11px; }
+.status-liquidated { background-color: #d4edda !important; color: #155724; }
+.status-unliquidated { background-color: #f8d7da !important; color: #721c24; }
+.auto-generated { background-color: #e3f2fd !important; }
+.return-entry { background-color: #e8f5e8 !important; }
+.reimburse-entry { background-color: #fff3cd !important; }
+.input-row { background-color: #fff3cd !important; }
+.balance-positive { color: #155724; font-weight: bold; }
+.balance-negative { color: #721c24; font-weight: bold; }
